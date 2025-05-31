@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithms-2
-Repository that shows experience in advanced data structures and algorithms
+# Algorithms
+Repository that shows experience in advanced data structures and algorithms such as graphs, divide and conquer, greedy, dynamic programming, and reductions
